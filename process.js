@@ -1,5 +1,4 @@
 const { version } = require("os");
 
-console.log(process.argv[2])
-console.log(version $ {process.version});
-
+console.log(process.argv[2]);
+console.log(`Version: ${process.version}`);
